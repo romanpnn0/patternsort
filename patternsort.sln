@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "patternsort", "patternsort\patternsort.vcxproj", "{48D1B99E-B47F-4967-A9F2-58148B285014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{48D1B99E-B47F-4967-A9F2-58148B285014}.Debug|Win32.ActiveCfg = Debug|Win32
+		{48D1B99E-B47F-4967-A9F2-58148B285014}.Debug|Win32.Build.0 = Debug|Win32
+		{48D1B99E-B47F-4967-A9F2-58148B285014}.Release|Win32.ActiveCfg = Release|Win32
+		{48D1B99E-B47F-4967-A9F2-58148B285014}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
